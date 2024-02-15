@@ -1,0 +1,14 @@
+C:\Users\Davood\Documents\C# Training\ObserverPattern\PublishAndSubscribe\bin\Debug\net8.0\PublishAndSubscribe.exe
+C:\Users\Davood\Documents\C# Training\ObserverPattern\PublishAndSubscribe\bin\Debug\net8.0\PublishAndSubscribe.deps.json
+C:\Users\Davood\Documents\C# Training\ObserverPattern\PublishAndSubscribe\bin\Debug\net8.0\PublishAndSubscribe.runtimeconfig.json
+C:\Users\Davood\Documents\C# Training\ObserverPattern\PublishAndSubscribe\bin\Debug\net8.0\PublishAndSubscribe.dll
+C:\Users\Davood\Documents\C# Training\ObserverPattern\PublishAndSubscribe\bin\Debug\net8.0\PublishAndSubscribe.pdb
+C:\Users\Davood\Documents\C# Training\ObserverPattern\PublishAndSubscribe\obj\Debug\net8.0\PublishAndSubscribe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davood\Documents\C# Training\ObserverPattern\PublishAndSubscribe\obj\Debug\net8.0\PublishAndSubscribe.AssemblyInfoInputs.cache
+C:\Users\Davood\Documents\C# Training\ObserverPattern\PublishAndSubscribe\obj\Debug\net8.0\PublishAndSubscribe.AssemblyInfo.cs
+C:\Users\Davood\Documents\C# Training\ObserverPattern\PublishAndSubscribe\obj\Debug\net8.0\PublishAndSubscribe.csproj.CoreCompileInputs.cache
+C:\Users\Davood\Documents\C# Training\ObserverPattern\PublishAndSubscribe\obj\Debug\net8.0\PublishAndSubscribe.dll
+C:\Users\Davood\Documents\C# Training\ObserverPattern\PublishAndSubscribe\obj\Debug\net8.0\refint\PublishAndSubscribe.dll
+C:\Users\Davood\Documents\C# Training\ObserverPattern\PublishAndSubscribe\obj\Debug\net8.0\PublishAndSubscribe.pdb
+C:\Users\Davood\Documents\C# Training\ObserverPattern\PublishAndSubscribe\obj\Debug\net8.0\PublishAndSubscribe.genruntimeconfig.cache
+C:\Users\Davood\Documents\C# Training\ObserverPattern\PublishAndSubscribe\obj\Debug\net8.0\ref\PublishAndSubscribe.dll
